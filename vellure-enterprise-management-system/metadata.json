@@ -1,0 +1,8 @@
+{
+  "name": "VELLURE Enterprise Management System",
+  "description": "Enterprise management suite for VELLURE luxury fragrances & attar with access control, sales analytics, AI formula advisor, financial P&L, courier dispatch, and thermal printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
